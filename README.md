@@ -1,6 +1,7 @@
 <h1 align="center">
   <a href="https://linux-dash.github.io">
-    <img src="https://raw.githubusercontent.com/afaqurk/screenshots/master/linux-dash/v2.0-logo.png"/>
+    <img src="http://i.giphy.com/3o7TKK2ZwlLRlQdU4M.gif"/>
+    <h1> The Sherpa Edition</h1>
   </a>
 </h1>
 
